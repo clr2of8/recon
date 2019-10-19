@@ -1,5 +1,5 @@
 # About this tool
-This tool uses Python Selenium to parse through certain sites and retrieve IP addresses, emails, and leaks.
+This tool uses Python Selenium to parse through certain sites and retrieve IP addresses, email addresses, and password leaks.
 
 ## Information
 You need to have Mozilla Firefox installed.  Your usernames and passwords are secure, and used only for logging in to the sites used by the tool when you request it.  Information found gets saved in files named 'emails.txt' and 'ips.txt'.  The leaks are always found last.  Once the tool finishes, if you wanted leaks, you will need to hit 'Yes' to download the leak file.  They will get saved in a file called 'Search Leaks.csv'.
